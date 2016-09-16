@@ -41,3 +41,6 @@ https://iamblue.gitbooks.io/linkit-smart-nodejs/content/en/basic/video_streaming
 
 Bus 001 Device 002: ID 1e4e:0110 Cubeternet
 https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work
+
+
+https://github.com/intel-iot-devkit/mraa
