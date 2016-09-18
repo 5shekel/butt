@@ -8,7 +8,7 @@ Two models were built.
 The first is a es8266 Adafruit Huzzah board with a pressure sensor (we recommend to add an mp6050 for next time). 
 The Second is a Linkit 7688 with a torrent server, an accelerometer mp6050, and a webcam.
 
-## Esp8266
+## Esp8266 Instructions
 
 The ESP model has Firmware Over-The-Air (FOTA) capability, and uses an esp8266 Huzzah. We also used a NodeMCU 0.9, which also works (you might need to change the LED pin).
 
