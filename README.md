@@ -1,6 +1,8 @@
 
 ## Geekcon buttplug project
 
+![buttplug](https://github.com/5shekel/butt/blob/master/media/butt_plug_geekcon_result_thumb.jpg)
+
 During geekcon 2016 we made a buttplug with wifi access capability.
 Two models were built.
 The first is a es8266 Adafruit Huzzah board with a pressure sensor (we recommend to add an mp6050 for next time). 
