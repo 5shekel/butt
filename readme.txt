@@ -1,6 +1,8 @@
 
 the linkit 7688 dev boards have a good 3v3 regulator, the [XC6220](http://media.digikey.com/pdf/Data%20Sheets/Torex/XC6220.pdf) 
 
+http://www.cnx-software.com/2015/12/01/mediatek-linkit-smart-7688-and-smart-7688-duo-boards-run-openwrt-for-iot-applications/
+
 ## low dropout
 
 ![]http://i.imgur.com/Kw4ZbtX.jpg
