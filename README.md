@@ -68,3 +68,15 @@ https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work
 
 
 https://github.com/intel-iot-devkit/mraa
+
+
+# Butt jokes
+During the event we colected butt jokes reguarding the projects. You are welcome to pull request more:
+
+* We are backend developers -- Guy
+* What we use to code? נודNCU -- emmanuel
+* Geekcon moto: "No project, no entry" -- Oded
+* I don't know where you put it, but I can still ping it -- Guy
+* We are in the Butt Jewelry business, I checked, it exists -- Yair
+* I will find you QA, there are girls in the Dungeon that will volenteer -- unknown
+* ברור שהם עוזרים לגיקון, הם מרחיבים את הקהילה -- Inbar
