@@ -29,6 +29,9 @@ Supply voltage: 1.8 ... 3.6V (VDD)
 
 
 ##MPU6050
+python soruce for reading data:
+https://github.com/intel-iot-devkit/upm/blob/master/examples/python/mpu60x0.py
+*Note: did not work on the duo because of the arduino pins
 
 ## lols
 http://www.penguin.cz/~utx/hardware/Creatic_18650_Power_Bank/CT6201_v1.0.pdf
