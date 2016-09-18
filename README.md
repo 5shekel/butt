@@ -69,6 +69,9 @@ https://github.com/foosel/OctoPrint/wiki/Webcams-known-to-work
 
 https://github.com/intel-iot-devkit/mraa
 
+# Hardware
+You have our STL in the ``hardware`` folder. Its based off [this buttplug mold](http://www.thingiverse.com/thing:1077730).
+We used a pretty crappy sillicon, and suggest you find your own. to seal the seam we used clay which prooved bad becuase it left brown stains (honst, that is what they are!). Probbably vaseline is abetter choice.
 
 # Butt jokes
 During the event we colected butt jokes reguarding the projects. You are welcome to pull request more:
