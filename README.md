@@ -15,6 +15,8 @@ The ESP model has Firmware Over-The-Air (FOTA) capability, and uses an esp8266 H
 Simply set your ssid and password, flash an upload the code. Connect a pressure sensor to the I2C pins, and an LED to the led pin.
 Once conncted, you will have a webserver with the pressure and tempreture readings.
 
+Requires Arduino 1.6.11+
+
 
 ## Linkit Instructions
 
